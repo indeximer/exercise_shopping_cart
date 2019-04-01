@@ -1,0 +1,14 @@
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap/scss/bootstrap-reboot.scss';
+
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+
+body{
+    background: #efefef;
+}
+.btn-round{
+    border-radius: 50%;
+    margin: 0 10px;
+}

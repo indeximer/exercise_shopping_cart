@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Coca-Cola Lata",
+        "id": 0,
+        "category_id": 0,
+        "description": "descrição",
+        "price": 5.00
+    },
+    {
+        "name": "Guaraná Fruki 600 ml",
+        "id": 1,
+        "category_id": 0,
+        "description": "descrição",
+        "price": 4.30
+    },
+    {
+        "name": "Bolacha Reacheada Trakinas",
+        "id": 2,
+        "category_id": 1,
+        "description": "descrição",
+        "price": 3.30
+    },
+    {
+        "name": "Bis",
+        "id": 3,
+        "category_id": 1,
+        "description": "descrição",
+        "price": 3.50
+    },
+    {
+        "name": "Kitkat",
+        "id": 4,
+        "category_id": 1,
+        "description": "descrição",
+        "price": 3.80
+    }
+]

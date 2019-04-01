@@ -1,0 +1,20 @@
+.cart{
+    position: relative;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    &:hover{opacity: 0.7;}
+    .cart-counter{
+        display:block;
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        line-height: 15px;
+        top:-10px;
+        right:-10px;
+        text-align: center;
+        font-size: 10px;
+        color: #fff;
+        border-radius: 50%;
+        background: #f00;
+    }
+}
